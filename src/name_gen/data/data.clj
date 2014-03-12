@@ -47,9 +47,9 @@
 (def adjectives-fi
 
   ["affiininen"
- "afganistanilainen"
- "aforistinen"
- "afrikkalainen"
+   "afganistanilainen"
+   "aforistinen"
+   "afrikkalainen"
  "afroaasialainen"
  "afroamerikkalainen"
  "agglutinatiivinen"
