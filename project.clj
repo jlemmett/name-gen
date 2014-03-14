@@ -6,6 +6,7 @@
                  [hiccup "1.0.5"]
                  [ring-server "0.3.1"]
                  [enlive "1.1.5"]]
+  :uberjar-name "name-gen-standalone.jar"
   :plugins [[lein-ring "0.8.10"]]
   :ring {:handler name-gen.handler/app
          :init name-gen.handler/init
