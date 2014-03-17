@@ -7,6 +7,7 @@
                  [ring-server "0.3.1"]
                  [enlive "1.1.5"]]
   :uberjar-name "name-gen-standalone.jar"
+  :min-lein-version "2.0.0"
   :plugins [[lein-ring "0.8.10"]]
   :ring {:handler name-gen.handler/app
          :init name-gen.handler/init
