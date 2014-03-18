@@ -17,6 +17,9 @@ usage
 
 todo
 ====
+* feedback link or something
+* show current version, revision history somewhere
+* keep a count of generated names
 * larger vocabulary
 * RESTful API
 * ...
