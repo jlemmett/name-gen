@@ -22,6 +22,7 @@ todo
 * keep a count of generated names
 * larger vocabulary
 * RESTful API
+* link the adjective to wiktionary?
 * ...
 * selectable language / word sets
 
