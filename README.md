@@ -23,11 +23,11 @@ usage
 todo
 ====
 * feedback link or something
-* show current version, revision history somewhere
+* ~~show current version, revision history somewhere~~
 * keep a count of generated names
 * larger vocabulary
 * RESTful API
-* link the adjective to wiktionary?
+* ~~link the adjective to wiktionary?~~
 * ...
 * selectable language / word sets
 
