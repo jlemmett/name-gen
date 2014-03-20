@@ -1,7 +1,7 @@
 name-gen, a version name generator
 ==================================
 
-**Version 0.3.0 (nelikymppinen mustajättiläisorava)
+**Version 0.3.0 (nelikymppinen mustajättiläisorava)**
 
 * A lot more animals (in Finnish), mostly mammals
 * Adjectives link to Wiktionary, nouns to Wikipedia (Finnish ones)
