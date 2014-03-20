@@ -1,6 +1,11 @@
 name-gen, a version name generator
 ==================================
 
+**Version 0.3.0 (nelikymppinen mustajättiläisorava)
+
+* A lot more animals (in Finnish), mostly mammals
+* Adjectives link to Wiktionary, nouns to Wikipedia (Finnish ones)
+
 **Version 0.2.0 (ahdasmielinen lammas)**
 
 * Internal tools for scraping words off lists on web pages

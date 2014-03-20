@@ -8,3 +8,12 @@ h1 {
     text-align: center;
 }
 
+h5 {
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: #555;
+}
+

@@ -1,4 +1,4 @@
-(defproject name-gen "0.2.0-SNAPSHOT"
+(defproject name-gen "0.3.0"
   :description "version name generator 0.2.0 'ahdasmielinen lammas'"
   :url "http://example.com/FIXME"
   :dependencies [[org.clojure/clojure "1.5.1"]

@@ -4,6 +4,6 @@
 (defn common [& body]
   (html5
     [:head
-     [:title "Welcome to name-gen"]
+     [:title "name-gen 0.3.0 (nelikymppinen mustajättiläisorava)"]
      (include-css "/css/screen.css")]
     [:body body]))
