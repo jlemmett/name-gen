@@ -1,5 +1,5 @@
-(defproject name-gen "0.3.0"
-  :description "version name generator 0.3.0 'nelikymppinen mustajättiläisorava'"
+(defproject name-gen "0.3.1"
+  :description "version name generator 0.3.1 'rela ilves'"
   :url "http://example.com/FIXME"
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [compojure "1.1.6"]
