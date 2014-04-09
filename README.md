@@ -3,8 +3,8 @@ name-gen, a version name generator
 
 **Version 0.3.1 (rela ilves)**
 * Ability to limit the length of the generated name via the route /:max-len 
-** e.g. localhost:3000/9 will yield names no longer than nine characters 
-** The parameter must be larger than 6 at the moment since there are no shorter names at the moment
+ * e.g. localhost:3000/9 will yield names no longer than nine characters 
+ * The parameter must be larger than 6 since there are no shorter names at the moment (parameters less than 7 are ignored)
 
 **Version 0.3.0 (nelikymppinen mustajättiläisorava)**
 
